@@ -30,3 +30,6 @@
 ### 🎓 Education
 - **Apple Developer Academy**
 - **42 Seoul**
+
+### 📄 Notion
+[![Notion](https://img.shields.io/badge/Notion-Visit%20Now-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/a2153cffdc544e089440c1739afd0509)
