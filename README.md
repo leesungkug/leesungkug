@@ -27,9 +27,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leesungkug&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leesungkug&show_icons=true&theme=radical)
 
-### 🎓 Education
+### 🎓 Education & Award
 - **Apple Developer Academy**
 - **42 Seoul**
+- **Swift Student Challenge 2025 Winner**
 
 ### 📄 Notion
 [![Notion](https://img.shields.io/badge/Notion-Visit%20Now-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/a2153cffdc544e089440c1739afd0509)
