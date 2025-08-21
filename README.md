@@ -21,8 +21,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leesungkug&show_icons=true&theme=radical)
 
 ### 🎓 Education & Award
-- **Apple Developer Academy**
-- **42 Seoul**
+- **Naver Boostcamp Membership 10th~**
+- **Apple Developer Academy 3rd Alumni**
+- **42 Seoul 4th Alumni**
 - **Swift Student Challenge 2025 Winner**
 
 ### 📄 Notion
